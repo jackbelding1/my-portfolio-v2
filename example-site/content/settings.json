@@ -35,8 +35,8 @@
     "siteConfiguration": {
         "logo": {
             "text": "",
-            "image": "./images/gatsby.svg", 
-            "imageDark": "./images/gatsby.svg"
+            "image": "./images/logo.png", 
+            "imageDark": "./images/logo.png"
         },
         "navigation": {
             "header": [

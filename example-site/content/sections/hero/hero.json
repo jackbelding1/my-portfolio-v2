@@ -1,7 +1,7 @@
 {
     "intro": "",
     "heroPhoto": {
-        "src": "",
+        "src": "../../images/profile.jpg",
         "alt": ""
     },
     "image": {
@@ -14,9 +14,9 @@
         "highlight": "",
         "suffix": ""
     },
-    "description": "A modern portfolio with a minimalistic design.",
+    "description": "Read about me and my work.",
     "socialProfiles": {
         "from": ["LinkedIn", "Github"],
-        "showIcons": false
+        "showIcons": true
     }
 }

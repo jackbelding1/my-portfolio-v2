@@ -13,8 +13,8 @@
 
 .Logo img,
 .Logo svg {
-    width: 70px;
-    height: 70px;
+    max-width: 70px;
+    max-height: 70px;
     object-fit: contain;
     align-content: flex-start;
 }

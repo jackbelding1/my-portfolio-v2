@@ -1,26 +1,43 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "https://gatsby-theme-portfolio-minimal.netlify.app/",
-        "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "title": "Gatsby Theme Portfolio Minimal",
-        "titleTemplate": "%s · A Gatsby Theme",
-        "description": "A Gatsby Theme to create a clean one-page portfolio with Markdown content.",
-        "author": "Konstantin Münster",
-        "avatar": "../content/images/gatsby.png",
-        "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+        "siteUrl": "",
+        "title": "",
+        "titleTemplate": "%s · Portfolio",
+        "description": "",
+        "author": "",
+        "avatar": "",
+        "bio": "",
         "social": {
-            "behance": "https://behance.com",
-            "github": "https://github.com/konstantinmuenster",
-            "medium": "https://konstantinmuenster.medium.com",
-            "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-            "twitter": "https://twitter.com/konstantinmnstr",
-            "mastodon": "https://mastodon.social",
-            "mail": "mailto:mail@konstantin.digital"
+            "behance": "",
+            "buymeacoffee": "",
+            "devto": "",
+            "discord": "",
+            "dribble": "",
+            "github": "https://github.com/jackbelding1",
+            "gitlab": "",
+            "goodreads": "",
+            "hashnode": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jack-belding/",
+            "mail": "",
+            "mastodon": "",
+            "medium": "",
+            "twitter": "",
+            "twitch": "",
+            "patreon": "",
+            "reddit": "",
+            "untappd": "",
+            "stackoverflow": "",
+            "youtube": ""
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "Gatsby" },
+        "logo": {
+            "text": "",
+            "image": "./images/gatsby.svg", 
+            "imageDark": "./images/gatsby.svg"
+        },
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },

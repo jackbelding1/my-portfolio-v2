@@ -33,7 +33,11 @@
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "" },
+        "logo": {
+            "text": "",
+            "image": "", 
+            "imageDark": ""
+        },
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },

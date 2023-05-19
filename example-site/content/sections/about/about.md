@@ -3,12 +3,12 @@ imageSrc: '../../images/profile.jpg'
 imageAlt: 'About Gatsby Theme Portfolio Minimal'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello reader, thank you for your interest in my portfolio! My story is began at Michigan State University as a chemical engineer, and I took my first coding class as a college requirement. I started with MATLAB, and in a few weeks, I was hooked (yes, you read that correctly). I changed my major, graduated with a Bachelor’s of Science in Computer Science, and I have never looked back. I credit this to my belief that technology can benefit billions of lives.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Since my transition, I’ve explored embedded systems, back-end, and front-end development. My passion is reserved for mobile app development, particularly iOS. I’ve released two monetized apps on the App Store, and I plan to continue both learning and pursuing entrepreneurial opportunities in the information technology industry! 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+### Fun Facts
+* Loyal Michiganer and enjoyer of <a href="https://www.michigan.org/"> <u>it's beauty</u></a>
+* Raced <a href="https://en.wikipedia.org/wiki/Snowboard_racing"> <u>Snowboard Slalom</u></a> for Michigan State University Ski and Snowboard Team
+* Retired Tech House/Techno DJ
+* Semi-enthusiastic weightlifter

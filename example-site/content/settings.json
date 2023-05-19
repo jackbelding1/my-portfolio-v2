@@ -41,14 +41,11 @@
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },
-                { "label": "Blog", "url": "/blog" },
-                { "label": "Features", "url": "/#features" },
-                { "label": "Github", "url": "/#github" }
+                { "label": "Projects", "url": "/#features" },
+                { "label": "Contact", "url": "/#github" }
             ],
-            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume-wordDoc-mobile-engineer-2.pdf" },
             "footer": [
-                { "label": "Privacy", "url": "/privacy" },
-                { "label": "Imprint", "url": "/imprint" }
             ]
         },
         "featureToggles": {

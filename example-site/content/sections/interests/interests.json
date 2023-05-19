@@ -1,58 +1,86 @@
 {
     "interests": [
         {
-            "label": "Quick and Easy Setup",
+            "label": "Swift",
             "image": {
-                "src": "../../images/joystick.png",
+                "src": "../../images/skills/swift-logo.png",
                 "alt": ""
             }
         },
         {
-            "label": "Content via Markdown",
+            "label": "Kotlin",
             "image": {
-                "src": "../../images/notebook.png",
+                "src": "../../images/skills/android-logo.png",
                 "alt": ""
             }
         },
         {
-            "label": "Responsive Design",
+            "label": "Python",
             "image": {
-                "src": "../../images/nail-polish.png",
+                "src": "../../images/skills/python.png",
                 "alt": ""
             }
         },
         {
-            "label": "Medium Integration",
+            "label": "C/C++",
             "image": {
-                "src": "../../images/medium.png",
+                "src": "../../images/skills/c++.png",
                 "alt": ""
             }
         },
         {
-            "label": "Animations",
+            "label": "Java",
             "image": {
-                "src": "../../images/gem-stone.png",
+                "src": "../../images/skills/java.png",
                 "alt": ""
             }
         },
         {
-            "label": "PWA (Offline Support)",
+            "label": "JavaScript",
             "image": {
-                "src": "../../images/mobile-phone.png",
+                "src": "../../images/skills/js-logo.png",
                 "alt": ""
             }
         },
         {
-            "label": "Modern Tech-Stack",
+            "label": "HTML + CSS",
             "image": {
-                "src": "../../images/gatsby.png",
+                "src": "../../images/skills/html-logo.png",
                 "alt": ""
             }
         },
         {
-            "label": "Blazing Fast",
+            "label": "GraphQL/Apollo",
             "image": {
-                "src": "../../images/high-voltage.png",
+                "src": "../../images/skills/graphql.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "REST API",
+            "image": {
+                "src": "../../images/skills/rest.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Mongo DB",
+            "image": {
+                "src": "../../images/skills/mongodb-logo.jpg",
+                "alt": ""
+            }
+        },
+        {
+            "label": "AWS",
+            "image": {
+                "src": "../../images/skills/aws.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Firebase",
+            "image": {
+                "src": "../../images/skills/firebase.png",
                 "alt": ""
             }
         }
@@ -60,6 +88,6 @@
     "button": {
         "visible": true,
         "label": "+ Load More",
-        "initiallyShownInterests": 5
+        "initiallyShownInterests": 6
     }
 }

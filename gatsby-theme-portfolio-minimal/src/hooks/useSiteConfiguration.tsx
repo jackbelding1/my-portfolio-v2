@@ -64,7 +64,7 @@ export const query = graphql`
                                 originalContent
                             }
                             childImageSharp {
-                                gatsbyImageData(width: 320, placeholder: BLURRED)
+                                gatsbyImageData(width: 70, placeholder: BLURRED)
                             }
                         }
                         imageDark {
@@ -74,7 +74,7 @@ export const query = graphql`
                                 originalContent
                             }
                             childImageSharp {
-                                gatsbyImageData(width: 320, placeholder: BLURRED)
+                                gatsbyImageData(width: 70, placeholder: BLURRED)
                             }
                         }
                     }

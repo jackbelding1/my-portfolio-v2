@@ -100,6 +100,7 @@ hr {
 
 u {
     text-decoration: underline;
+    color: #4E89CD;
     transition: box-shadow 0.3s ease-out;
 }
 

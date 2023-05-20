@@ -14,10 +14,10 @@ export function Page(props: PageProps): React.ReactElement {
         <GlobalStateProvider
             defaultTheme={siteConfiguration.featureToggles.useDarkModeAsDefault ? Theme.Dark : Theme.Light}
             useDarkModeBasedOnUsersPreference={siteConfiguration.featureToggles.useDarkModeBasedOnUsersPreference}
-            useSplashScreenAnimation={props.useSplashScreenAnimation || false}
+            useSplashScreenAnimation={false}
         >
             <Layout
-                useSplashScreenAnimation={props.useSplashScreenAnimation || false}
+                useSplashScreenAnimation={false}
                 useCookieBar={siteConfiguration.featureToggles.useCookieBar}
             >
                 {props.children}

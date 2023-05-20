@@ -15,6 +15,5 @@
 .Logo svg {
     max-width: 70px;
     max-height: 70px;
-    object-fit: contain;
-    align-content: flex-start;
+    object-fit: none;
 }

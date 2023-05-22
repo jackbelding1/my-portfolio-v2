@@ -8,8 +8,15 @@
             "tags": ["Swift", "GraphQL", "RealmDB"],
             "image": {
                 "src": "../../images/algorhythm.png",
-                "alt": "Quick Setup"
-            }
+                "alt": "Quick Setup",
+                "linkTo": "https://www.algorhythmapp.com/" 
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://apps.apple.com/us/app/algorhythm-instant-playlists/id6446463438"
+                }
+            ]
         },
         {
             "visible": true,
@@ -19,8 +26,19 @@
             "tags": ["Swift", "AWS", "APNS", "Firebase"],
             "image": {
                 "src": "../../images/alpinemusiclogo.jpg",
-                "alt": "Extendable Layout"
-            }
+                "alt": "Extendable Layout",
+                "linkTo": "https://www.alpinemusic.app/" 
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://apps.apple.com/us/app/alpine-music-app/id6448963168"
+                },
+                {
+                    "type": "github",
+                    "url": "https://github.com/jackbelding1/AlpineMusicApp"
+                }
+            ]
         },
         {
             "visible": true,
@@ -35,12 +53,12 @@
         },
         {
             "visible": true,
-            "category": "🧰 EXTENDABLE LAYOUT",
-            "title": "Add more sections!",
-            "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-            "tags": ["Custom Sections", "Easy-2-Use"],
+            "category": "Desktop App",
+            "title": "Audio Synthesizer",
+            "description": "An audio synthesiser capable of creating and playing a minute long drumline with various effects.",
+            "tags": ["C++", "MFC", "XML"],
             "image": {
-                "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+                "src": "../../images/synthe.jpg",
                 "alt": "Extendable Layout"
             }
         }
@@ -48,6 +66,6 @@
     "button": {
         "visible": true,
         "label": "Visit on Github",
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+        "url": "https://github.com/jackbelding1/"
     }
 }

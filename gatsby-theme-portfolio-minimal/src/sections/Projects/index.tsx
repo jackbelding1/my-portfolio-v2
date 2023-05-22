@@ -16,7 +16,7 @@ export function ProjectsSection(props: PageSection): React.ReactElement {
         <Animation type="fadeIn">
             <Section anchor={props.sectionId} heading={props.heading}>
                 <Slider additionalClasses={[classes.Projects]}>
-                    {data.projects.slice(0, 3).map((project, key) => {
+                    {data.projects.map((project, key) => {
                         return project.visible ? <Project key={key} index={key} data={project} /> : null;
                     })}
                 </Slider>

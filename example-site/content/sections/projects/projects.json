@@ -7,9 +7,9 @@
             "description": "Algorhythm is a Spotify playlist creation tool that makes finding new music easy by connecting users to AI-powered algorithms with a simple and intuitive experience.",
             "tags": ["Swift", "GraphQL", "RealmDB"],
             "image": {
-                "src": "../../images/algorhythm.png",
+                "src": "../../images/algorhythm.jpeg",
                 "alt": "Quick Setup",
-                "linkTo": "https://www.algorhythmapp.com/" 
+                "linkTo": "https://www.algorhythmapp.com/"
             },
             "links": [
                 {
@@ -25,9 +25,9 @@
             "description": "The Alpine Music App is designed for DJs to live stream to their fans, display previous streams, and promote and monetize their brand.",
             "tags": ["Swift", "AWS", "APNS", "Firebase"],
             "image": {
-                "src": "../../images/alpinemusiclogo.jpg",
+                "src": "../../images/alpinemusiclogo.jpeg",
                 "alt": "Extendable Layout",
-                "linkTo": "https://www.alpinemusic.app/" 
+                "linkTo": "https://www.alpinemusic.app/"
             },
             "links": [
                 {

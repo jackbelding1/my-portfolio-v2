@@ -72,7 +72,7 @@
 .Project .ProjectImageWrapper {
     width: 100%;
     max-width: 25rem;
-    height: 15rem;
+    height: 18rem;
     border-radius: var(--border-radius);
     box-shadow: 0 0 2.5rem var(--box-shadow-color);
     transition: all 0.3s ease-out;

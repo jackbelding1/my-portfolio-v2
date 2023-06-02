@@ -35,7 +35,7 @@
     "siteConfiguration": {
         "logo": {
             "text": "",
-            "image": "./images/logo.png", 
+            "image": "./images/logo.png",
             "imageDark": "./images/logo.png"
         },
         "navigation": {
@@ -44,9 +44,8 @@
                 { "label": "Projects", "url": "/#features" },
                 { "label": "Contact", "url": "/#github" }
             ],
-            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume-wordDoc-mobile-engineer-2.pdf" },
-            "footer": [
-            ]
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume-wordDoc-mobile-engineer-3.pdf" },
+            "footer": []
         },
         "featureToggles": {
             "useDarkModeAsDefault": false,

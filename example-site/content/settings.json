@@ -44,7 +44,6 @@
                 { "label": "Projects", "url": "/#features" },
                 { "label": "Contact", "url": "/#github" }
             ],
-            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume-wordDoc-mobile-engineer-3.pdf" },
             "footer": []
         },
         "featureToggles": {
